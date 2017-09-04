@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="colorhuan" format="color"/>
+        <attr name="xiaokuan" format="dimension"/>
+        <attr name="dakuan" format="dimension"/>
+    </declare-styleable>
+</resources>

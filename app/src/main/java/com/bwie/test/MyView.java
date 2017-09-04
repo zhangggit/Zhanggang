@@ -27,9 +27,6 @@ public class MyView extends View {
     private float xiaohuan;
     private float dahuan;
 
-    Button button;
-    ImageView imageView;
-
     public MyView(Context context) {
         this(context, null);
     }
